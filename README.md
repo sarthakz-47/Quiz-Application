@@ -15,7 +15,7 @@ This project is a **Quiz Application** developed using **Java Swing and AWT** fr
 ### 1. Clone the Repository
 Clone this repository to your local machine using the following command:
 ```bash
-git clone https://github.com/Janviw14/Quiz-application-using-Java
+git clone https://github.com/sarthakz-47/Quiz-Application.git
 ```
 
 ### 2. Set Up Your Environment
